@@ -34,12 +34,10 @@ body{
     text-align:center;
     background-color:#1A1B21;
 }
-.main-info > *{
-    margin-bottom:15px;
-}
 
 .main-info > h1,p{
     color:white;
+    margin-bottom:20px;
 }
 
 .main-info > h1{
@@ -74,4 +72,21 @@ body{
 .about-me > h2, .about-me > p{
     color:white;
     margin-bottom:10px;
+}
+
+.about-me > p{
+    font-weight: 100;
+}
+
+/*FOOTER*/
+.footer{
+    background-color:#161619;
+    text-align:center;
+    padding:20px;
+}
+
+.footer .fa-brands{
+    font-size:40px;
+    margin-right:20px;
+    color:#918E9B;
 }

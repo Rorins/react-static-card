@@ -24,7 +24,7 @@ export default function MainInfo(){
             <p>I enjoy making things fall from tables, meowing all day and sleeping.
                 I'm quite a food fanatic aswell. </p>
         </div>
-
+    
         </div>
     )
 }
