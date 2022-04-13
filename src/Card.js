@@ -4,7 +4,7 @@ import MainInfo from "./components/MainInfo.js";
 
 export default function Card(){
     return(
-    <main>
+    <main class="card">
         <ProfilePhoto />
         <MainInfo />
     </main>
